@@ -5,5 +5,9 @@ You have limited turns and need to destroy a given amount of enemies within the 
 Multiple commands at once are possible
 
 
+TODO: Need to clean up code
+TODO: Maybe making a GUI to practice some JavaFX
+
+
 
 
